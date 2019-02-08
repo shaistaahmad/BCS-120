@@ -1,0 +1,4 @@
+﻿  Lab6b2-ShaistaAhmad.cpp
+c:\users\shais\google drive\fall 2018 semester\cs programming 1\workspace\lab6b - shaistaahmad\lab6b2-shaistaahmad\lab6b2-shaistaahmad\lab6b2-shaistaahmad.cpp(63): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\shais\google drive\fall 2018 semester\cs programming 1\workspace\lab6b - shaistaahmad\lab6b2-shaistaahmad\lab6b2-shaistaahmad\lab6b2-shaistaahmad.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab6b2-ShaistaAhmad.vcxproj -> C:\Users\shais\Google Drive\Fall 2018 Semester\CS Programming 1\Workspace\Lab6b - ShaistaAhmad\Lab6b2-ShaistaAhmad\Debug\Lab6b2-ShaistaAhmad.exe
